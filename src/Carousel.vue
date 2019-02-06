@@ -220,7 +220,7 @@ export default {
   },
   data: function() {
     return {
-      showPrev: false,
+      showPrev: (this.loop || false),
       showNext: true,
 
       prevHandler: 'carousel_prev_' + this.generateUniqueId(),

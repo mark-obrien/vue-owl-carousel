@@ -1,12 +1,12 @@
 {
-  "name": "vue-owl-carousel",
+  "name": "vue-owl-carousel-2",
   "description": "VueJS wrapper for Owl Carousel",
   "version": "2.0.3",
   "author": {
-    "name": "Leo Chien <s950329@gmail.com>"
+    "name": "Mark OBrien"
   },
   "bugs": {
-    "url": "https://github.com/s950329/vue-owl-carousel/issues"
+    "url": "https://github.com/mark-obrien/vue-owl-carousel/issues"
   },
   "keywords": [
     "vuejs",
@@ -45,12 +45,11 @@
     "webpack": "1.13.1",
     "webpack-merge": "^4.1.0"
   },
-  "homepage": "https://github.com/s950329/vue-owl-carousel#readme",
   "license": "MIT",
   "main": "dist/vue-owl-carousel.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s950329/vue-owl-carousel.git"
+    "url": "git+https://github.com/mark-obrien/vue-owl-carousel.git"
   },
   "scripts": {
     "build": "webpack --config ./webpack.config.js"
